@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2014-01-14 10:52:17
-categories: electronics, opensource ,geography, miscellaneous
+tags: [electronics, opensource, geography, miscellaneous]
 ---
 
 Hello, world! This is my new jekyll powered blog.
