@@ -30,3 +30,10 @@ experimenting equipment that I need.
 
 In the next couple of weeks, I will go through the process of designing the
 Eigthtuino.
+
+I am currently at my second prototype, which, confusingly, is called
+the eightuino, rev1. It will take some time before the blog series 
+will reach this far, but here is a spoiler (yes, I now, it is a bit wonky
+in the construction, that is what you get when you solder with a hangover):
+
+![Eightuino Rev1, first look](/images/eightuino-first-look.jpg)
