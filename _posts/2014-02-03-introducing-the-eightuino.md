@@ -3,6 +3,7 @@ layout: post
 title:  "Introducing the Eightuino"
 date:   2014-02-03 19:53:00
 tags: [opensource,electronics]
+comments: true
 ---
 I am currently developing my own AVR development, arduino like. I want to make
 it a industrially made PCB, and I want it I am 
