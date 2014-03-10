@@ -118,5 +118,6 @@ have 10 1:1 scale models (non-functioning) of the Attiny2313 to prove it.
 [IteadStudio]: http://iteadstudio.com/
 [Elecrow]: http://elecrow.com/
 [SeeedStudio]: http://seeedstudio.com/
+[OSHPark]: http://oshpark.com/
 [Eightuino]: /introducing-the-eightuino/
 
