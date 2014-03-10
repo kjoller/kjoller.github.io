@@ -12,6 +12,7 @@ as a matter of a few small adjustments, but mostly the learning experience
 of designing a board.
 
 I have been suggested these three methods:
+
 - A chinese clone - basically a 1-to-1 chinese copy
 - The [Nanino] - one sided home-etchable FTDI-less board
 - The [JEENode] - A stick-thingy with 868MHz RF data transmission
