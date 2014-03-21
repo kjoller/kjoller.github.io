@@ -27,7 +27,7 @@ them. But more on that later!
 
 The code:
 
-```asm
+```nasm
 ; My first piece of assembler code. It is made to mimic the blink
 ; example from the Arduino environment. The arduino example compiles
 ; to around 1Kb - this is 44 bytes. And should be very 
