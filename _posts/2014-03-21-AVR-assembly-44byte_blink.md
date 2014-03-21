@@ -103,7 +103,6 @@ Delay:
    
     nop ; added to make a number of cycles divisible by 4 ; 1 cycle
     ret ;                                                   3 cycles
-
 ``` 
 
 [avr-tutorial]: http://www.avr-asm-tutorial.net/
