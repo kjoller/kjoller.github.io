@@ -9,9 +9,9 @@ Hello, world! This is my new jekyll powered blog.
 
 A code snippet:
 
-{% highlight python %}
+```python
 def print_hi(name):
   print("Hi, %s" % name)
 
 print_hi('Tom')
-{% endhighlight %}
+```
